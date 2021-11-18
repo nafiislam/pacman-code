@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1607346207 source:c:\users\jhon\downloads\igraphics-master\igraphics-master\mazemaker.cpp
+	"iGraphics.h"
+
+1563940332 c:\users\jhon\downloads\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 c:\users\jhon\downloads\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\users\jhon\downloads\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1607435194 source:c:\users\jhon\downloads\igraphics-master\igraphics-master\pacman (2).cpp
+	"iGraphics.h"
+	"gl.h"
+	<string.h>
+
+1563940332 c:\users\jhon\downloads\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1607462363 source:c:\users\jhon\downloads\igraphics-master\igraphics-master\pacman (2) - copy.cpp
+	"iGraphics.h"
+	"gl.h"
+	<string.h>
+
+1608330283 source:c:\users\jhon\downloads\igraphics-master\igraphics-master\pacman.cpp
+	"iGraphics.h"
+	"gl.h"
+	"newheader.h"
+	<string.h>
+
+1607930884 source:c:\users\jhon\downloads\igraphics-master\igraphics-master\pacman .cpp
+	"iGraphics.h"
+	"gl.h"
+	<string.h>
+
+1607934566 source:c:\users\jhon\downloads\igraphics-master\igraphics-master\pacman  - copy.cpp
+	"iGraphics.h"
+	"gl.h"
+	"newheader.h"
+	<string.h>
+
+1607931587 c:\users\jhon\downloads\igraphics-master\igraphics-master\newheader.h
+
