@@ -1,2 +1,2 @@
 # pacman-code
-It's the actual code
+Run the pacman.cpp code to execute the program
